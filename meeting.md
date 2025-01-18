@@ -1,21 +1,22 @@
 **Property management Modules**
- -Property management
-  |-Onboarding
-  |-contract service
-  |-maintenance service
-  |-Utility nmanagement
- -Tenant management
-  |-onboarding service
-  |-swapping service
-  |
- -Financial management
-  |-rent collection service
-  |-rent disbasement
-  |- Reconciliatiion
-  |- Wallet
- -Analytics & Reporting
- -Support management
-  |-tenant support service
-  |-landrod queries service
-  |-
- 
+📦 Property Management
+ ┣ 📂 Onboarding
+ ┣ 📂 Contract Service
+ ┣ 📂 Maintenance Service
+ ┗ 📂 Utility Management
+
+📦 Tenant Management
+ ┣ 📂 Onboarding Service
+ ┗ 📂 Swapping Service
+
+📦 Financial Management
+ ┣ 📂 Rent Collection Service
+ ┣ 📂 Rent Disbursement
+ ┣ 📂 Reconciliation
+ ┗ 📂 Wallet
+
+📦 Analytics & Reporting
+
+📦 Support Management
+ ┣ 📂 Tenant Support Service
+ ┗ 📂 Landlord Query Service
